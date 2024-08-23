@@ -7,3 +7,9 @@
 ## Dice Roller
 
 一個骰子app
+
+## tip_Calculator
+
+小費計算機
+
+有代碼
